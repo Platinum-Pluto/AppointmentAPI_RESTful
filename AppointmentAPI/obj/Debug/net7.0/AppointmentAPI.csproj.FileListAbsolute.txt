@@ -1,0 +1,7 @@
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.csproj.AssemblyReference.cache
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.AssemblyInfoInputs.cache
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.AssemblyInfo.cs
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.csproj.CoreCompileInputs.cache
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\ASP_DOTNET_PROJECT\AppointmentAPI\AppointmentAPI\obj\Debug\net7.0\AppointmentAPI.MvcApplicationPartsAssemblyInfo.cache
